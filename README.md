@@ -1,2 +1,3 @@
-# KoreanMusicChart
-Korean Music Chart
+# KoreanMusic
+
+> Fetch Korean Music Data from Online

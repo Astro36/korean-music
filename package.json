@@ -1,0 +1,38 @@
+{
+  "name": "korean-music",
+  "version": "0.1.0",
+  "description": "Fetch Korean Music Data from Online ",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib test",
+    "lint-fix": "eslint lib test --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astro36/KoreanMusic.git"
+  },
+  "keywords": [
+    "korean",
+    "music",
+    "k-pop"
+  ],
+  "author": {
+    "name": "Astro36",
+    "email": "astr36@naver.com",
+    "url": "http://astro36.me"
+  },
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Astro36/KoreanMusic/issues"
+  },
+  "homepage": "https://github.com/Astro36/KoreanMusic#readme",
+  "dependencies": {
+    "jsdom": "^11.6.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
